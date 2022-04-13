@@ -1,7 +1,7 @@
 
 
 
-console.log('alo2');
+console.log('alo3');
 
 
 (function () {
