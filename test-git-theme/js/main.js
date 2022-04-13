@@ -5,6 +5,18 @@
 console.log('TEST GIT 3');
 
 
+console.log('TEST GIT 6');
+
+console.log('TEST GIT 10');
+
+
+
+
+
+
+
+
+
 (function () {
   // Polyfill for NodeList.prototype.forEach() in IE
   if (window.NodeList && !NodeList.prototype.forEach) {
